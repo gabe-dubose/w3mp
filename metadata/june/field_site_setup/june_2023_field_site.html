@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        @page {
+            size: 11in 8.5in;
+        }
+
+        body {
+            width: 11in;
+            height: 8.5in;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        #outerPath {
+            position: absolute;
+            top: 300px;
+            left: 205px;
+            width: 600px;
+            height: 390px;
+            border-style:solid;
+            border-width: 2px;
+            border-color: #333 #FFF #FFF #333;
+        }
+
+        #innerPath {
+            position: absolute;
+            top: 340px;
+            left: 245px;
+            width: 560px;
+            height: 350px;
+            border-style:solid;
+            border-width: 2px;
+            border-color: #333 #FFF #FFF #333;
+        }
+
+        #block {
+            position: absolute;
+            border-style: solid;
+            border-width: 2px;
+            border-color: #333;
+            width: 30px;
+            height: 30px;
+            text-align: center;
+            font-size: 10px;
+        }
+
+        #fence {
+            position: absolute;
+            top: 225px;
+            left: 25px;
+            width: 790px;
+            height: 470px;
+            border-style: dashed;
+            border-width: 2px;
+            border-color: #333 #FFF #FFF #333;
+        }
+
+        #garage {
+            position: absolute;
+            top: 367px;
+            left: 270px;
+            width: 535px;
+            height: 320px;
+            border-style:solid;
+            border-width: 2px;
+            border-color: #333 #FFF #FFF #333;
+        }
+
+        #fieldTable {
+            position: absolute;
+            border-style: solid;
+            border-width: 2px;
+            border-color: #333;
+            width: 100px;
+            height: 50px;
+            text-align: center;
+            font-size: 10px; 
+        }
+
+    </style>
+    <body>
+        <!--Add path-->
+        <div id="outerPath"></div>
+        <div id="innerPath"></div>
+        <!--Add south blocks-->
+        <div id="block" style="top: 265px; left: 735px;">JC8</div></div>
+        <div id="block" style="top: 265px; left: 700px;">JI7</div>
+        <div id="block" style="top: 265px; left: 665px;">JC7</div>
+        <div id="block" style="top: 265px; left: 630px;">JI6</div>
+        <div id="block" style="top: 265px; left: 595px;">JC6</div>
+        <div id="block" style="top: 265px; left: 560px;">JI5</div>
+        <div id="block" style="top: 265px; left: 525px;">JC5</div>
+        <div id="block" style="top: 265px; left: 490px;">JI4</div>
+
+        <div id="block" style="top: 230px; left: 735px;">JI1</div>
+        <div id="block" style="top: 230px; left: 700px;">JC1</div>
+        <div id="block" style="top: 230px; left: 630px;">JC2</div>
+        <div id="block" style="top: 230px; left: 595px;">JI2</div>
+        <div id="block" style="top: 230px; left: 560px;">JC3</div>
+        <div id="block" style="top: 230px; left: 525px;">JI3</div>
+        <div id="block" style="top: 230px; left: 490px;">JC4</div>
+
+        <div id="block" style="top: 265px; left: 380px;">JC19</div>
+        <div id="block" style="top: 265px; left: 345px;">JI18</div>
+        <div id="block" style="top: 265px; left: 310px;">JC18</div>
+        <div id="block" style="top: 265px; left: 275px;">JI17</div>
+        <div id="block" style="top: 265px; left: 240px;">JC17</div>
+
+        <div id="block" style="top: 265px; left: 205px;">JI16</div>
+        <div id="block" style="top: 265px; left: 170px;">JC16</div>
+        <div id="block" style="top: 265px; left: 135px;">JI15</div>
+        <div id="block" style="top: 265px; left: 100px;">JC15</div>
+        <div id="block" style="top: 265px; left: 65px;">JI14</div>
+        <div id="block" style="top: 265px; left: 30px;">JC14</div>
+
+        <div id="block" style="top: 230px; left: 380px;">JI8</div>
+        <div id="block" style="top: 230px; left: 345px;">JC9</div>
+        <div id="block" style="top: 230px; left: 310px;">JI9</div>
+        <div id="block" style="top: 230px; left: 275px;">JC10</div>
+        <div id="block" style="top: 230px; left: 240px;">JI10</div>
+
+        <div id="block" style="top: 230px; left: 205px;">JC11</div>
+        <div id="block" style="top: 230px; left: 170px;">JI11</div>
+        <div id="block" style="top: 230px; left: 135px;">JC12</div>
+        <div id="block" style="top: 230px; left: 100px;">JI12</div>
+        <div id="block" style="top: 230px; left: 65px;">JC13</div>
+        <div id="block" style="top: 230px; left: 30px;">JI13</div>
+
+        <!--Add east blocks-->
+        <div id="block" style="top: 300px; left: 170px;">JI20</div>
+        <div id="block" style="top: 335px; left: 170px;">JC22</div>
+        <div id="block" style="top: 370px; left: 170px;">JI23</div>
+        <div id="block" style="top: 405px; left: 170px;">JC26</div>
+        <div id="block" style="top: 440px; left: 170px;">JI26</div>
+        <div id="block" style="top: 475px; left: 170px;">JC27</div>
+        <div id="block" style="top: 510px; left: 170px;">JI27</div>
+        <div id="block" style="top: 545px; left: 170px;">JC28</div>
+        <div id="block" style="top: 580px; left: 170px;">JI28</div>
+        <div id="block" style="top: 615px; left: 170px;">JC29</div>
+        <div id="block" style="top: 650px; left: 170px;">JI29</div>
+
+        <div id="block" style="top: 300px; left: 135px;">JC20</div>
+        <div id="block" style="top: 335px; left: 135px;">JI21</div>
+        <div id="block" style="top: 370px; left: 135px;">JC23</div>
+        <div id="block" style="top: 405px; left: 135px;">JI25</div>
+
+        <div id="block" style="top: 300px; left: 100px;">JI19</div>
+        <div id="block" style="top: 335px; left: 100px;">JC21</div>
+        <div id="block" style="top: 370px; left: 100px;">JI22</div>
+        <div id="block" style="top: 405px; left: 100px;">JC25</div>
+
+        <div id="block" style="top: 405px; left: 65px;">JI24</div>
+        <div id="block" style="top: 405px; left: 30px;">JC24</div>
+
+        <div style="position: absolute; top: 310px; left: 420px;">&#8592;Path&#8594;</div>
+        <div style="position: absolute; top: 205px; left: 420px;">&#8592;Fence&#8594;</div>
+
+        <!--Add fence-->
+        <div id="fence"></div>
+
+        <!--Add Field Table-->
+        <div id="fieldTable" style="top: 315px; left: 530px; background-color: white;">Field Bench</div>
+
+        <!--Add building-->
+        <div id="garage"></div>
+        <div style="position: absolute; top: 380px; left: 427px;">Garage</div>
+
+        <div style="position: absolute; width: 2px; height: 50px; top: 500px; left: 585px; background-color: #333;"></div>
+        <div style="position: absolute; width: 50px; height: 2px; top: 525px; left: 560px; background-color: #333;"></div>
+        <div style="position: absolute; top: 480px; left: 581px;">S</div>
+        <div style="position: absolute; top: 551px; left: 581px;">N</div>
+        <div style="position: absolute; top: 517px; left: 549px;">E</div>
+        <div style="position: absolute; top: 517px; left: 610px;">W</div>
+
+    </body>
+</html>

@@ -1,0 +1,1 @@
+This directory contains the metadata collected for the "What Makes a Migrant Monarch?" project. This directory contains "summer" and "fall" directories, which hold metadata for the June and September experimental setups, respectively. Additionally, the "sample_metadata" directory contains the metadata associated with each monarch and milkweed sample taken for this experiment. 

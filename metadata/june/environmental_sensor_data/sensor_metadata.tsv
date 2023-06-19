@@ -1,9 +1,0 @@
-sensor	date	stake-number	approximate-height-from-ground-inches	net	read-out
-dl1	06-04-2023	JC6	21	yes	yes
-dl2	06-04-2023	JI10	21	no	yes
-dl3	06-04-2023	JC23	21	yes	yes
-dl4	06-04-2023	JC28	21	no	yes
-dl1	06-05-2023	JC6	21	no	yes
-dl2	06-05-2023	JI10	21	no	yes
-dl3	06-05-2023	JC21	21	no	yes
-dl4	06-05-2023	JC28	21	no	yes

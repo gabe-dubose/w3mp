@@ -19,3 +19,5 @@ Description: Data on which genetic backgrounds (lineages) were placed on which p
 	Column[lineage] the genetic background of caterpillars placed on the corresponding plant, where the identifier before the dash indicated the maternal background, and the identifier after the dash corresponds to the caterpillars paternal background
 	Column[number-of-caterpillars] the number of caterpillars placed on the corresponding plant
 	Column[date-placed-on-plant] the data in mm-dd-yyyy format that the caterpillars were placed on the corresponding plant
+	Column[plant-supplementation-date] the date in mm-dd-yyyy format that additional plant cuttings were placed inside of the nets to provide additional food for the caterpillars
+	Column[supplemental-cuttings-cut-on] the date in mm-dd-yyyy format that the supplemental food was cut

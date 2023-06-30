@@ -1,59 +1,59 @@
-plant-id	lineage	number-of-caterpillars	date-placed-on-plant	date-placed-on-plant	plant-supplementation-06-22-2023	plant-supplementation-06-23-2023	plant-supplementation-06-24-2023	plant-supplementation-06-25-2023	plant-supplementation-06-26-2023	plant-supplementation-06-27-2023	plant-supplementation-06-28-2023
-JI1	KLb5-TI10	3	6/12/23	06-12-2023	no	no	no	no	no	no	no
-JI17	KLb5-TI10	3	6/12/23	06-12-2023	yes	yes	no	no	no	no	no
-JI14	KLb5-TI10	3	6/12/23	06-12-2023	yes	no	no	no	no	no	no
-JI29	KLb5-TI10	3	6/12/23	06-12-2023	no	no	no	no	no	no	no
-JI11	KLb5-TI10	3	6/12/23	06-12-2023	no	no	no	no	no	no	no
-JI7	KLb5-TI10	3	6/12/23	06-12-2023	no	no	no	no	no	no	no
-JI5	KLb5-TI10	3	6/12/23	06-12-2023	no	no	no	no	no	no	no
-JI15	KLb5-TI10	3	6/12/23	06-12-2023	yes	no	no	no	no	no	no
-JI26	KLb5-TI10	3	6/12/23	06-12-2023	no	no	no	no	no	no	no
-JI6	KLb5-TI10	3	6/12/23	06-12-2023	yes	yes	no	no	no	no	no
-JI9	KLb5-TI10	3	6/12/23	06-12-2023	yes	yes	no	no	no	no	no
-JI10	KLb5-TI10	3	6/12/23	06-12-2023	no	no	no	no	no	no	no
-JI21	KLb5-TI10	3	6/12/23	06-12-2023	no	no	yes	no	no	no	no
-JI25	KLb5-TI10	3	6/12/23	06-12-2023	yes	no	no	no	no	no	no
-JI2	KLb5-TI10	3	6/12/23	06-12-2023	yes	no	no	no	no	no	no
-JC8	KLb5-TI10	3	6/12/23	06-12-2023	no	no	no	no	no	no	no
-JC1	KLb5-TI10	3	6/12/23	06-12-2023	no	no	no	no	no	no	no
-JC7	KLb5-TI10	3	6/12/23	06-12-2023	no	no	yes	no	no	no	no
-JC9	KLb5-TI10	2	6/12/23	06-12-2023	no	no	yes	no	no	no	no
-JC19	KLb5-TI10	3	6/12/23	06-12-2023	no	no	no	no	no	no	no
-JI8	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	no	no	no
-JI18	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	yes	no	no	no
-JI16	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	yes	no	no	no
-JI20	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	yes	no	no	no
-JI19	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	yes	no	no	no
-JI12	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	no	no	no
-JI13	IJ8-RB7	3	6/16/23	06-16-2023	no	no	yes	yes	no	no	no
-JI23	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	no	no	no
-JI22	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	no	no	no
-JI24	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	no	no	no
-JC15	IJ8-RB7	3	6/16/23	06-16-2023	no	no	yes	yes	no	no	no
-JC13	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	yes	yes	yes	no
-JC12	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	no	no	no
-JC20	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	yes	yes	no
-JC16	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	no	yes	no
-JC26	IJ8-RB7	3	6/16/23	06-16-2023	no	no	yes	no	yes	yes	no
-JC2	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	yes	no	no	no
-JC6	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	no	no	no
-JC5	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	yes	no	no	no
-JC3	IJ8-RB7	3	6/16/23	06-16-2023	no	no	yes	yes	no	no	no
-JC4	IJ8-RB7	3	6/16/23	06-16-2023	no	no	yes	yes	no	no	no
-JC10	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	yes	no	no	no
-JC17	IJ8-RB7	3	6/16/23	06-16-2023	no	no	yes	yes	no	no	no
-JC18	IJ8-RB7	3	6/16/23	06-16-2023	no	no	yes	no	yes	no	no
-JC11	IJ8-RB7	3	6/16/23	06-16-2023	no	no	yes	yes	yes	no	no
-JC29	IJ8-RB7	3	6/16/23	06-16-2023	no	no	yes	yes	no	no	no
-JC28	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	yes	no	no	no
-JC27	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	no	no	no
-JC22	IJ8-RB7	3	6/16/23	06-16-2023	no	no	no	no	no	no	no
-JI3	TI11-WL1	3	6/18/23	06-18-2023	no	no	no	no	no	no	no
-JI4	TI11-WL1	3	6/18/23	06-18-2023	no	no	no	no	no	no	yes
-JI27	TI11-WL1	3	6/18/23	06-18-2023	no	no	no	no	no	no	no
-JI28	TI11-WL1	3	6/18/23	06-18-2023	no	no	no	no	no	no	no
-JC23	TI11-WL1	3	6/18/23	06-18-2023	no	no	no	no	no	no	yes
-JC21	TI11-WL1	3	6/18/23	06-18-2023	no	no	no	no	no	no	no
-JC24	TI11-WL1	3	6/18/23	06-18-2023	no	no	no	no	no	no	yes
-JC25	TI11-WL1	3	6/18/23	06-18-2023	no	no	no	no	no	yes	yes
-JC14	TI11-WL1	3	6/18/23	06-18-2023	no	no	no	no	no	no	no
+plant-id	lineage	number-of-caterpillars	date-caterpillars-placed-on-plant	plant-supplementation-06-22-2023	plant-supplementation-06-23-2023	plant-supplementation-06-24-2023	plant-supplementation-06-25-2023	plant-supplementation-06-26-2023	plant-supplementation-06-27-2023	plant-supplementation-06-28-2023
+JI1	KLb5-TI10	3	06-12-2023	no	no	no	no	no	no	no
+JI17	KLb5-TI10	3	06-12-2023	yes	yes	no	no	no	no	no
+JI14	KLb5-TI10	3	06-12-2023	yes	no	no	no	no	no	no
+JI29	KLb5-TI10	3	06-12-2023	no	no	no	no	no	no	no
+JI11	KLb5-TI10	3	06-12-2023	no	no	no	no	no	no	no
+JI7	KLb5-TI10	3	06-12-2023	no	no	no	no	no	no	no
+JI5	KLb5-TI10	3	06-12-2023	no	no	no	no	no	no	no
+JI15	KLb5-TI10	3	06-12-2023	yes	no	no	no	no	no	no
+JI26	KLb5-TI10	3	06-12-2023	no	no	no	no	no	no	no
+JI6	KLb5-TI10	3	06-12-2023	yes	yes	no	no	no	no	no
+JI9	KLb5-TI10	3	06-12-2023	yes	yes	no	no	no	no	no
+JI10	KLb5-TI10	3	06-12-2023	no	no	no	no	no	no	no
+JI21	KLb5-TI10	3	06-12-2023	no	no	yes	no	no	no	no
+JI25	KLb5-TI10	3	06-12-2023	yes	no	no	no	no	no	no
+JI2	KLb5-TI10	3	06-12-2023	yes	no	no	no	no	no	no
+JC8	KLb5-TI10	3	06-12-2023	no	no	no	no	no	no	no
+JC1	KLb5-TI10	3	06-12-2023	no	no	no	no	no	no	no
+JC7	KLb5-TI10	3	06-12-2023	no	no	yes	no	no	no	no
+JC9	KLb5-TI10	2	06-12-2023	no	no	yes	no	no	no	no
+JC19	KLb5-TI10	3	06-12-2023	no	no	no	no	no	no	no
+JI8	IJ8-RB7	3	06-16-2023	no	no	no	no	no	no	no
+JI18	IJ8-RB7	3	06-16-2023	no	no	no	yes	no	no	no
+JI16	IJ8-RB7	3	06-16-2023	no	no	no	yes	no	no	no
+JI20	IJ8-RB7	3	06-16-2023	no	no	no	yes	no	no	no
+JI19	IJ8-RB7	3	06-16-2023	no	no	no	yes	no	no	no
+JI12	IJ8-RB7	3	06-16-2023	no	no	no	no	no	no	no
+JI13	IJ8-RB7	3	06-16-2023	no	no	yes	yes	no	no	no
+JI23	IJ8-RB7	3	06-16-2023	no	no	no	no	no	no	no
+JI22	IJ8-RB7	3	06-16-2023	no	no	no	no	no	no	no
+JI24	IJ8-RB7	3	06-16-2023	no	no	no	no	no	no	no
+JC15	IJ8-RB7	3	06-16-2023	no	no	yes	yes	no	no	no
+JC13	IJ8-RB7	3	06-16-2023	no	no	no	yes	yes	yes	no
+JC12	IJ8-RB7	3	06-16-2023	no	no	no	no	no	no	no
+JC20	IJ8-RB7	3	06-16-2023	no	no	no	no	yes	yes	no
+JC16	IJ8-RB7	3	06-16-2023	no	no	no	no	no	yes	no
+JC26	IJ8-RB7	3	06-16-2023	no	no	yes	no	yes	yes	no
+JC2	IJ8-RB7	3	06-16-2023	no	no	no	yes	no	no	no
+JC6	IJ8-RB7	3	06-16-2023	no	no	no	no	no	no	no
+JC5	IJ8-RB7	3	06-16-2023	no	no	no	yes	no	no	no
+JC3	IJ8-RB7	3	06-16-2023	no	no	yes	yes	no	no	no
+JC4	IJ8-RB7	3	06-16-2023	no	no	yes	yes	no	no	no
+JC10	IJ8-RB7	3	06-16-2023	no	no	no	yes	no	no	no
+JC17	IJ8-RB7	3	06-16-2023	no	no	yes	yes	no	no	no
+JC18	IJ8-RB7	3	06-16-2023	no	no	yes	no	yes	no	no
+JC11	IJ8-RB7	3	06-16-2023	no	no	yes	yes	yes	no	no
+JC29	IJ8-RB7	3	06-16-2023	no	no	yes	yes	no	no	no
+JC28	IJ8-RB7	3	06-16-2023	no	no	no	yes	no	no	no
+JC27	IJ8-RB7	3	06-16-2023	no	no	no	no	no	no	no
+JC22	IJ8-RB7	3	06-16-2023	no	no	no	no	no	no	no
+JI3	TI11-WL1	3	06-18-2023	no	no	no	no	no	no	no
+JI4	TI11-WL1	3	06-18-2023	no	no	no	no	no	no	yes
+JI27	TI11-WL1	3	06-18-2023	no	no	no	no	no	no	no
+JI28	TI11-WL1	3	06-18-2023	no	no	no	no	no	no	no
+JC23	TI11-WL1	3	06-18-2023	no	no	no	no	no	no	yes
+JC21	TI11-WL1	3	06-18-2023	no	no	no	no	no	no	no
+JC24	TI11-WL1	3	06-18-2023	no	no	no	no	no	no	yes
+JC25	TI11-WL1	3	06-18-2023	no	no	no	no	no	yes	yes
+JC14	TI11-WL1	3	06-18-2023	no	no	no	no	no	no	no

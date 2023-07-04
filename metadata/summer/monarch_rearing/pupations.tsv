@@ -4,12 +4,12 @@ pupation-event-uid	plant-id	pupation-count	date	relative-position-s	notes
 06-24-2023JI6	JI6	1	06-24-2023	NA	J at pupation check
 06-24-2023JI2	JI2	1	06-24-2023	NA	NA
 06-24-2023JI9	JI9	2	06-24-2023	NA	NA
-06-24-2023JI10	JI10	2	06-24-2023	left	Left J at pupation check
+06-24-2023JI10	JI10	2	06-24-2023	both	Left J at pupation check
 06-24-2023JI11	JI11	1	06-24-2023	left	NA
 06-24-2023JI14	JI14	2	06-24-2023	NA	NA
 06-24-2023JI15	JI15	2	06-24-2023	NA	Left J at pupation check
 06-24-2023JI21	JI21	1	06-24-2023	left	Left J at pupation check
-06-24-2023JI25	JI25	2	06-24-2023	right	Right J at pupation check
+06-24-2023JI25	JI25	2	06-24-2023	both	Right J at pupation check
 06-24-2023JI26	JI26	1	06-24-2023	middle	J at pupation check
 06-24-2023JI29	JI29	1	06-24-2023	NA	died during pupation
 06-25-2023JI1	JI1	1	06-25-2023	NA	NA
@@ -33,7 +33,6 @@ pupation-event-uid	plant-id	pupation-count	date	relative-position-s	notes
 06-26-2023JC10	JC10	1	06-26-2023	right	NA
 06-26-2023JC17	JC17	1	06-26-2023	right	NA
 06-26-2023JC11	JC11	1	06-26-2023	right	NA
-06-26-2023JI11	JI11	1	06-26-2023	left	NA
 06-26-2023JI13	JI13	1	06-26-2023	right	Right J at pupation check
 06-26-2023JI14	JI14	1	06-26-2023	right	NA
 06-26-2023JC15	JC15	2	06-26-2023	NA	NA
@@ -63,5 +62,8 @@ pupation-event-uid	plant-id	pupation-count	date	relative-position-s	notes
 06-29-2023JC14	JC14	1	06-29-2023	NA	J at pupation check
 06-29-2023JC23	JC23	1	06-29-2023	NA	J at pupation check
 06-29-2023JC25	JC25	3	06-29-2023	NA	2 leftmost J at pupation check
-06-29-2023JI24	JI24	1	06-29-2023	NA	NA
 06-29-2023JC24	JC24	1	06-29-2023	NA	J at pupation check
+06-30-2023JI4	JI4	1	06-30-2023	left	NA
+unknownJI8	JI8	1	unknown	NA	on leaf
+unknownJI27	JI27	1	unknown	NA	on leaf
+07-01-2023JI28	JI28	1	07-01-2023	NA	on leaf

@@ -1,72 +1,110 @@
-sample-id	developmental-stage	plant-species	plant-id	lineage	date-frozen	date-pupated	relative-position-s	date-eclosed	sex	notes
-w3mp_3sc1	3rd-instar	curassavica	JC8	KLb5-TI10	06-18-2023	NA	NA	NA	NA	
-w3mp_3sc2	3rd-instar	curassavica	JC9	KLb5-TI10	06-18-2023	NA	NA	NA	NA	
-w3mp_3sc3	3rd-instar	curassavica	JC1	KLb5-TI10	06-18-2023	NA	NA	NA	NA	
-w3mp_3si4	3rd-instar	incarnata	JI1	KLb5-TI10	06-18-2023	NA	NA	NA	NA	dropped to ground
-w3mp_3si5	3rd-instar	incarnata	JI7	KLb5-TI10	06-18-2023	NA	NA	NA	NA	
-w3mp_3si6	3rd-instar	incarnata	JI11	KLb5-TI10	06-18-2023	NA	NA	NA	NA	
-w3mp_3sc7	3rd-instar	curassavica	JC12	IJ8-RB7	06-21-2023	NA	NA	NA	NA	
-w3mp_3sc8	3rd-instar	curassavica	JC15	IJ8-RB7	06-21-2023	NA	NA	NA	NA	
-w3mp_3sc9	3rd-instar	curassavica	JC20	IJ8-RB7	06-21-2023	NA	NA	NA	NA	
-w3mp_3si10	3rd-instar	incarnata	JI19	IJ8-RB7	06-21-2023	NA	NA	NA	NA	
-w3mp_3si11	3rd-instar	incarnata	JI24	IJ8-RB7	06-21-2023	NA	NA	NA	NA	
-w3mp_3si12	3rd-instar	incarnata	JI23	IJ8-RB7	06-21-2023	NA	NA	NA	NA	
-w3mp_3*si13	3rd-instar	incarnata	JI4	TI11-WL1	06-21-2023	NA	NA	NA	NA	
-w3mp_3*si14	3rd-instar	incarnata	JI3	TI11-WL1	06-21-2023	NA	NA	NA	NA	
-w3mp_3*si15	3rd-instar	incarnata	JI28	TI11-WL1	06-21-2023	NA	NA	NA	NA	
-w3mp_3*si16	3rd-instar	incarnata	JI27	TI11-WL1	06-21-2023	NA	NA	NA	NA	
-w3mp_3*sc17	3rd-instar	curassavica	JC23	TI11-WL1	06-21-2023	NA	NA	NA	NA	
-w3mp_3*sc18	3rd-instar	curassavica	JC14	TI11-WL1	06-21-2023	NA	NA	NA	NA	
-w3mp_3*sc19	3rd-instar	curassavica	JC21	TI11-WL1	06-21-2023	NA	NA	NA	NA	
-w3mp_5sc20	5th-instar	curassavica	JC1	KLb5-TI10	06-21-2023	NA	NA	NA	NA	
-w3mp_5sc21	5th-instar	curassavica	JC7	KLb5-TI10	06-21-2023	NA	NA	NA	NA	
-w3mp_5sc22	5th-instar	curassavica	JC7	KLb5-TI10	06-21-2023	NA	NA	NA	NA	
-w3mp_5sc23	5th-instar	curassavica	JC19	KLb5-TI10	06-21-2023	NA	NA	NA	NA	
-w3mp_5si24	5th-instar	incarnata	JI2	KLb5-TI10	06-21-2023	NA	NA	NA	NA	
-w3mp_5si25	5th-instar	incarnata	JI1	KLb5-TI10	06-21-2023	NA	NA	NA	NA	
-w3mp_5si26	5th-instar	incarnata	JI6	KLb5-TI10	06-21-2023	NA	NA	NA	NA	
-w3mp_5sc27	5th-instar	curassavica	JC11	IJ8-RB7	06-22-2023	NA	NA	NA	NA	
-w3mp_5sc28	5th-instar	curassavica	JC18	IJ8-RB7	06-22-2023	NA	NA	NA	NA	
-w3mp_5sc29	5th-instar	curassavica	JC27	IJ8-RB7	06-22-2023	NA	NA	NA	NA	
-w3mp_5si30	5th-instar	incarnata	JI20	IJ8-RB7	06-22-2023	NA	NA	NA	NA	
-w3mp_5si31	5th-instar	incarnata	JI13	IJ8-RB7	06-22-2023	NA	NA	NA	NA	
-w3mp_5si32	5th-instar	incarnata	JI24	IJ8-RB7	06-22-2023	NA	NA	NA	NA	
-w3mp_Esc33	early-pupa	curassavica	JC8	KLb5-TI10	06-25-2023	06-24-2023	only	NA	NA	
-w3mp_Esi34	early-pupa	incarnata	JI7	KLb5-TI10	06-25-2023	06-24-2023	only	NA	NA	
-w3mp_Esi35	early-pupa	incarnata	JI9	KLb5-TI10	06-25-2023	06-24-2023	either	NA	NA	
-w3mp_Esi36	early-pupa	incarnata	JI14	KLb5-TI10	06-25-2023	06-24-2023	right	NA	NA	
-w3mp_Esc37	early-pupa	curassavica	JC9	KLb5-TI10	06-26-2023	06-25-2023	only	NA	NA	
-w3mp_Esc38	early-pupa	curassavica	JC28	IJ8-RB7	06-26-2023	06-25-2023	only	NA	NA	
-w3mp_Esc39	early-pupa	curassavica	JC1	KLb5-TI10	06-26-2023	06-25-2023	only	NA	NA	
-w3mp_Esi40	early-pupa	incarnata	JI20	IJ8-RB7	06-26-2023	06-25-2023	right	NA	NA	
-w3mp_Esi41	early-pupa	incarnata	JI19	IJ8-RB7	06-26-2023	06-25-2023	either	NA	NA	
-w3mp_5sc42	5th-instar	curassavica	JC24	TI11-WL1	06-26-2023	NA	NA	NA	NA	
-w3mp_5si43	5th-instar	incarnata	JI27	TI11-WL1	06-26-2023	NA	NA	NA	NA	
-w3mp_Esi44	early-pupa	incarnata	JI13	IJ8-RB7	06-27-2023	06-26-2023	right	NA	NA	
-w3mp_Esc45	early-pupa	curassavica	JC2	IJ8-RB7	06-27-2023	06-26-2023	any	NA	NA	
-w3mp_Esc46	early-pupa	curassavica	JC15	IJ8-RB7	06-27-2023	06-26-2023	either	NA	NA	
-w3mp_5si47	5th-instar	incarnata	JI3	TI11-WL1	06-27-2023	NA	NA	NA	NA	
-w3mp_5si48	5th-instar	incarnata	JI28	TI11-WL1	06-27-2023	NA	NA	NA	NA	
-w3mp_5sc49	5th-instar	curassavica	JC21	TI11-WL1	06-27-2023	NA	NA	NA	NA	
-w3mp_5sc50	5th-instar	curassavica	JC23	TI11-WL1	06-27-2023	NA	NA	NA	NA	
-w3mp_Msi51	middle-pupa	incarnata	JI5		06-30-2023	06-25-2023	either	NA	NA	
-w3mp_Msi52	middle-pupa	incarnata	JI17		06-30-2023	06-25-2023	either	NA	NA	
-w3mp_Msi53	middle-pupa	incarnata	JI26		06-30-2023	06-25-2023	rightmost	NA	NA	
-w3mp_Msc54	middle-pupa	curassavica	JC29		07-01-2023	06-26-2023	any	NA	NA	
-w3mp_Msc55	middle-pupa	curassavica	JC4		07-01-2023	06-26-2023	either	NA	NA	
-w3mp_Msc56	middle-pupa	curassavica	JC3		07-01-2023	06-26-2023	rightmost-or-leftmost	NA	NA	
-w3mp_Msi57	middle-pupa	incarnata	JI23		07-01-2023	06-26-2023	either	NA	NA	
-w3mp_Msc58	middle-pupa	curassavica	JC19		07-02-2023	06-27-2023	only	NA	NA	
-w3mp_Msc59	middle-pupa	curassavica	JC3		07-02-2023	06-27-2023	middle	NA	NA	
-w3mp_Msi60	middle-pupa	incarnata	JI12		07-02-2023	06-27-2023	either	NA	NA	
-w3mp_Msi61	middle-pupa	incarnata	JI20		07-02-2023	06-27-2023	on stem	NA	NA	
-w3mp_Msi62	middle-pupa	incarnata	JI16		07-02-2023	06-27-2023	either	NA	NA	
-w3mp_Lsi63	late-pupa	incarnata	JI20		07-02-2023	06-24-2023	left	NA	NA	
-w3mp_Lsi64	late-pupa	incarnata	JI25		07-02-2023	06-24-2023	right	NA	NA	
-w3mp_Asi65	adult	incarnata	JI11		07-02-2023	06-24-2023	left	07-02-2023	female	
-w3mp_Asi66	adult	incarnata	JI6		07-03-2023	06-24-2023	left	07-03-2023	female	
-w3mp_Asi67	adult	incarnata	JI25		07-03-2023	06-24-2023	left	07-03-2023		
-w3mp_Asi68	adult	incarnata	JI2		NA	06-24-2023	NA	07-03-2023		
-w3mp_Asi69	adult	incarnata	JI10		NA	06-24-2023	NA	07-03-2023		
-w3mp_Asi70	adult	incarnata	JI15		NA	06-24-2023	NA	07-03-2023		
-w3mp_Asi71	adult	incarnata	JI21		NA	06-24-2023	left	07-03-2023		
+sample-id	developmental-stage	plant-species	plant-id	relative-position-s	lineage	date-frozen	date-pupated	date-eclosed	sex	notes
+w3mp_3sc1	3rd-instar	curassavica	JC8	NA	KLb5-TI10	06-18-2023	NA	NA	NA	
+w3mp_3sc2	3rd-instar	curassavica	JC9	NA	KLb5-TI10	06-18-2023	NA	NA	NA	
+w3mp_3sc3	3rd-instar	curassavica	JC1	NA	KLb5-TI10	06-18-2023	NA	NA	NA	
+w3mp_3si4	3rd-instar	incarnata	JI1	NA	KLb5-TI10	06-18-2023	NA	NA	NA	dropped to ground
+w3mp_3si5	3rd-instar	incarnata	JI7	NA	KLb5-TI10	06-18-2023	NA	NA	NA	
+w3mp_3si6	3rd-instar	incarnata	JI11	NA	KLb5-TI10	06-18-2023	NA	NA	NA	
+w3mp_3sc7	3rd-instar	curassavica	JC12	NA	IJ8-RB7	06-21-2023	NA	NA	NA	
+w3mp_3sc8	3rd-instar	curassavica	JC15	NA	IJ8-RB7	06-21-2023	NA	NA	NA	
+w3mp_3sc9	3rd-instar	curassavica	JC20	NA	IJ8-RB7	06-21-2023	NA	NA	NA	
+w3mp_3si10	3rd-instar	incarnata	JI19	NA	IJ8-RB7	06-21-2023	NA	NA	NA	
+w3mp_3si11	3rd-instar	incarnata	JI24	NA	IJ8-RB7	06-21-2023	NA	NA	NA	
+w3mp_3si12	3rd-instar	incarnata	JI23	NA	IJ8-RB7	06-21-2023	NA	NA	NA	
+w3mp_3*si13	3rd-instar	incarnata	JI4	NA	TI11-WL1	06-21-2023	NA	NA	NA	
+w3mp_3*si14	3rd-instar	incarnata	JI3	NA	TI11-WL1	06-21-2023	NA	NA	NA	
+w3mp_3*si15	3rd-instar	incarnata	JI28	NA	TI11-WL1	06-21-2023	NA	NA	NA	
+w3mp_3*si16	3rd-instar	incarnata	JI27	NA	TI11-WL1	06-21-2023	NA	NA	NA	
+w3mp_3*sc17	3rd-instar	curassavica	JC23	NA	TI11-WL1	06-21-2023	NA	NA	NA	
+w3mp_3*sc18	3rd-instar	curassavica	JC14	NA	TI11-WL1	06-21-2023	NA	NA	NA	
+w3mp_3*sc19	3rd-instar	curassavica	JC21	NA	TI11-WL1	06-21-2023	NA	NA	NA	
+w3mp_5sc20	5th-instar	curassavica	JC1	NA	KLb5-TI10	06-21-2023	NA	NA	NA	
+w3mp_5sc21	5th-instar	curassavica	JC7	NA	KLb5-TI10	06-21-2023	NA	NA	NA	
+w3mp_5sc22	5th-instar	curassavica	JC7	NA	KLb5-TI10	06-21-2023	NA	NA	NA	
+w3mp_5sc23	5th-instar	curassavica	JC19	NA	KLb5-TI10	06-21-2023	NA	NA	NA	
+w3mp_5si24	5th-instar	incarnata	JI2	NA	KLb5-TI10	06-21-2023	NA	NA	NA	
+w3mp_5si25	5th-instar	incarnata	JI1	NA	KLb5-TI10	06-21-2023	NA	NA	NA	
+w3mp_5si26	5th-instar	incarnata	JI6	NA	KLb5-TI10	06-21-2023	NA	NA	NA	
+w3mp_5sc27	5th-instar	curassavica	JC11	NA	IJ8-RB7	06-22-2023	NA	NA	NA	
+w3mp_5sc28	5th-instar	curassavica	JC18	NA	IJ8-RB7	06-22-2023	NA	NA	NA	
+w3mp_5sc29	5th-instar	curassavica	JC27	NA	IJ8-RB7	06-22-2023	NA	NA	NA	
+w3mp_5si30	5th-instar	incarnata	JI20	NA	IJ8-RB7	06-22-2023	NA	NA	NA	
+w3mp_5si31	5th-instar	incarnata	JI13	NA	IJ8-RB7	06-22-2023	NA	NA	NA	
+w3mp_5si32	5th-instar	incarnata	JI24	NA	IJ8-RB7	06-22-2023	NA	NA	NA	
+w3mp_Esc33	early-pupa	curassavica	JC8	only	KLb5-TI10	06-25-2023	06-24-2023	NA	NA	
+w3mp_Esi34	early-pupa	incarnata	JI7	only	KLb5-TI10	06-25-2023	06-24-2023	NA	NA	
+w3mp_Esi35	early-pupa	incarnata	JI9	either	KLb5-TI10	06-25-2023	06-24-2023	NA	NA	
+w3mp_Esi36	early-pupa	incarnata	JI14	right	KLb5-TI10	06-25-2023	06-24-2023	NA	NA	
+w3mp_Esc37	early-pupa	curassavica	JC9	only	KLb5-TI10	06-26-2023	06-25-2023	NA	NA	
+w3mp_Esc38	early-pupa	curassavica	JC28	only	IJ8-RB7	06-26-2023	06-25-2023	NA	NA	
+w3mp_Esc39	early-pupa	curassavica	JC1	only	KLb5-TI10	06-26-2023	06-25-2023	NA	NA	
+w3mp_Esi40	early-pupa	incarnata	JI20	right	IJ8-RB7	06-26-2023	06-25-2023	NA	NA	
+w3mp_Esi41	early-pupa	incarnata	JI19	either	IJ8-RB7	06-26-2023	06-25-2023	NA	NA	
+w3mp_5sc42	5th-instar	curassavica	JC24	NA	TI11-WL1	06-26-2023	NA	NA	NA	
+w3mp_5si43	5th-instar	incarnata	JI27	NA	TI11-WL1	06-26-2023	NA	NA	NA	
+w3mp_Esi44	early-pupa	incarnata	JI13	right	IJ8-RB7	06-27-2023	06-26-2023	NA	NA	
+w3mp_Esc45	early-pupa	curassavica	JC2	any	IJ8-RB7	06-27-2023	06-26-2023	NA	NA	
+w3mp_Esc46	early-pupa	curassavica	JC15	either	IJ8-RB7	06-27-2023	06-26-2023	NA	NA	
+w3mp_5si47	5th-instar	incarnata	JI3	NA	TI11-WL1	06-27-2023	NA	NA	NA	
+w3mp_5si48	5th-instar	incarnata	JI28	NA	TI11-WL1	06-27-2023	NA	NA	NA	
+w3mp_5sc49	5th-instar	curassavica	JC21	NA	TI11-WL1	06-27-2023	NA	NA	NA	
+w3mp_5sc50	5th-instar	curassavica	JC23	NA	TI11-WL1	06-27-2023	NA	NA	NA	
+w3mp_Msi51	middle-pupa	incarnata	JI5	either	KLb5-TI10	06-30-2023	06-25-2023	NA	NA	
+w3mp_Msi52	middle-pupa	incarnata	JI17	either	KLb5-TI10	06-30-2023	06-25-2023	NA	NA	
+w3mp_Msi53	middle-pupa	incarnata	JI26	rightmost	KLb5-TI10	06-30-2023	06-25-2023	NA	NA	
+w3mp_Msc54	middle-pupa	curassavica	JC29	any	IJ8-RB7	07-01-2023	06-26-2023	NA	NA	
+w3mp_Msc55	middle-pupa	curassavica	JC4	either	IJ8-RB7	07-01-2023	06-26-2023	NA	NA	
+w3mp_Msc56	middle-pupa	curassavica	JC3	rightmost-or-leftmost	IJ8-RB7	07-01-2023	06-26-2023	NA	NA	
+w3mp_Msi57	middle-pupa	incarnata	JI23	either	IJ8-RB7	07-01-2023	06-26-2023	NA	NA	
+w3mp_Msc58	middle-pupa	curassavica	JC19	only	KLb5-TI10	07-02-2023	06-27-2023	NA	NA	
+w3mp_Msc59	middle-pupa	curassavica	JC3	middle	IJ8-RB7	07-02-2023	06-27-2023	NA	NA	
+w3mp_Msi60	middle-pupa	incarnata	JI12	either	IJ8-RB7	07-02-2023	06-27-2023	NA	NA	
+w3mp_Msi61	middle-pupa	incarnata	JI20	on stem	IJ8-RB7	07-02-2023	06-27-2023	NA	NA	
+w3mp_Msi62	middle-pupa	incarnata	JI16	either	IJ8-RB7	07-02-2023	06-27-2023	NA	NA	
+w3mp_Lsi63	late-pupa	incarnata	JI20	left	IJ8-RB7	07-02-2023	06-24-2023	NA	NA	
+w3mp_Lsi64	late-pupa	incarnata	JI25	right	KLb5-TI10	07-02-2023	06-24-2023	NA	NA	
+w3mp_Asi65	adult	incarnata	JI11	left	KLb5-TI10	07-02-2023	06-24-2023	07-02-2023	female	
+w3mp_Asi66	adult	incarnata	JI6	left	KLb5-TI10	07-03-2023	06-24-2023	07-03-2023	female	
+w3mp_Asi67	adult	incarnata	JI25	left	KLb5-TI10	07-03-2023	06-24-2023	07-03-2023		
+w3mp_Asi68	adult	incarnata	JI2	NA	KLb5-TI10	NA	06-24-2023	07-03-2023		
+w3mp_Asi69	adult	incarnata	JI10	NA	KLb5-TI10	NA	06-24-2023	07-03-2023		
+w3mp_Asi70	adult	incarnata	JI15	NA	KLb5-TI10	NA	06-24-2023	07-03-2023		
+w3mp_Asi71	adult	incarnata	JI21	left	KLb5-TI10	NA	06-24-2023	07-03-2023		
+w3mp_Asc72	adult	curassavica	JC29		IJ8-RB7	NA	06-26-2023	07-04-2023		
+w3mp_Asc73	adult	curassavica	JC22		IJ8-RB7	NA	06-26-2023	07-04-2023		
+w3mp_Asc74	adult	curassavica	JC15		IJ8-RB7	NA	06-26-2023	07-04-2023		
+w3mp_Asc75	adult	curassavica	JC17		IJ8-RB7	NA	06-26-2023	07-04-2023		
+w3mp_Asi76	adult	incarnata	JI18		IJ8-RB7	NA	06-26-2023	07-04-2023		
+w3mp_Asc77	adult	curassavica	JC2		IJ8-RB7	NA	06-26-2023	07-04-2023		
+w3mp_Asi78	adult	incarnata	JI1		KLb5-TI10	NA	06-25-2023	07-04-2023		
+w3mp_Asi79	adult	incarnata	JI19		IJ8-RB7	07-04-2023	06-25-2023	07-04-2023		
+w3mp_Asi80	adult	incarnata	JI18		IJ8-RB7	07-04-2023	06-26-2023	07-04-2023		
+w3mp_Asi81	adult	incarnata	JI6		KLb5-TI10	07-04-2023	06-24-2023	07-04-2023		
+w3mp_Asc82	adult	curassavica	JC27		IJ8-RB7	07-04-2023	06-26-2023	07-04-2023		
+w3mp_Asc83	adult	curassavica	JC18		IJ8-RB7	07-04-2023	06-26-2023	07-04-2023		
+w3mp_Lsc84	late-pupa	curassavica	JC7		KLb5-TI10	07-04-2023	06-26-2023	NA	NA	
+w3mp_Lsc85	late-pupa	curassavica	JC18		IJ8-RB7	07-04-2023	06-26-2023	NA	NA	
+w3mp_Lsc86	late-pupa	curassavica	JC5		IJ8-RB7	07-04-2023	06-26-2023	NA	NA	
+w3mp_Lsi87	late-pupa	incarnata	JI22		IJ8-RB7	07-04-2023	06-26-2023	NA	NA	
+w3mp_Lsi88	late-pupa	incarnata	JI13		IJ8-RB7	07-04-2023	06-26-2023	NA	NA	
+w3mp_Lsi89	late-pupa	incarnata	JI21		KLb5-TI10	07-04-2023		NA	NA	
+w3mp_Lsi90	late-pupa	incarnata	JI23		IJ8-RB7	07-04-2023		NA	NA	
+w3mp_Lsc91	late-pupa	curassavica	JC11		IJ8-RB7	07-04-2023		NA	NA	
+w3mp_Asc92	adult	curassavica	JC3		IJ8-RB7	07-05-2023		07-05-2023		
+w3mp_Asc93	adult	curassavica	JC7		KLb5-TI10	07-05-2023		07-05-2023		
+w3mp_Asc94	adult	curassavica	JC18		IJ8-RB7	NA		07-05-2023		
+w3mp_Asi95	adult	incarnata	JI22		IJ8-RB7	NA		07-05-2023		
+w3mp_Lsc96	late-pupa	curassavica	JC16		IJ8-RB7	07-05-2023		NA	NA	
+w3mp_Lsc97	late-pupa	curassavica	JC13		IJ8-RB7	07-05-2023		NA	NA	
+w3mp_Asi98	adult	incarnata	JI8		IJ8-RB7	07-06-2023		07-06-2023		
+w3mp_Asc99	adult	curassavica	JC13		IJ8-RB7	07-06-2023		07-06-2023		
+w3mp_Asc100	adult	curassavica	JC16		IJ8-RB7	07-06-2023		07-06-2023		
+w3mp_Asc101	adult	curassavica	JC26		IJ8-RB7	07-06-2023		07-06-2023		
+w3mp_Asi102	adult	incarnata	JI12		IJ8-RB7	NA		07-07-2023		
+w3mp_Asi103	adult	incarnata	JI24		IJ8-RB7	NA		07-07-2023		
+w3mp_Asc104	adult	curassavica	JC13					07-07-2023		
+w3mp_Asc105	adult	curassavica	JC25					07-03-2023		
+w3mp_Asi106	adult	incarnata	JI27					07-08-2023		
+w3mp_Asc107	adult	curassavica	JC24					07-08-2023		
+w3mp_Asc108	adult	curassavica	JC25					07-08-2023		
+w3mp_Asi109	adult	incarnata	JI3					07-09-2023		

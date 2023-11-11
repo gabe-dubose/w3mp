@@ -33,13 +33,4 @@ Description: Data describing where environmental sensors were placed in the fiel
 	Column[sensor-id] a unique id that distinguishes sensors
 	Column[location] a unique identifier of the plant the sensor was placed
 	
-
-File: summer_2023_field_site.html
-Description: A map of the field site used in the summer of 2023, written in HTML and CSS
-
-File: summer_2023_field_site.pdf
-Description: A map of the field site used in the summer of 2023 in PDF format
-
-File: make_field_map_pdf.sh
-Description: A bash script that converts the html field site file into PDF format
  

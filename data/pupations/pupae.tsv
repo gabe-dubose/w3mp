@@ -1,0 +1,93 @@
+pupation-event-uid	season	plant-id	plant	pupation-count	date-on-plant	date-pupated	days-on-plant-to-pupation	relative-position-s	notes
+06-25-2023JC1	summer	JC1	curassavica	1	6/12/23	6/25/23	13	NA	J at pupation check
+06-26-2023JC10	summer	JC10	curassavica	1	6/16/23	6/26/23	10	right	NA
+06-26-2023JC11	summer	JC11	curassavica	1	6/16/23	6/26/23	10	right	NA
+06-27-2023JC11	summer	JC11	curassavica	1	6/16/23	6/27/23	11	left	Left J at pupation check
+06-27-2023JC13	summer	JC13	curassavica	2	6/16/23	6/27/23	11	two-rightmost	Right J at pupation check
+06-28-2023JC13	summer	JC13	curassavica	1	6/16/23	6/28/23	12	left	NA
+06-29-2023JC14	summer	JC14	curassavica	1	6/18/23	6/29/23	11	NA	J at pupation check
+06-26-2023JC15	summer	JC15	curassavica	2	6/16/23	6/26/23	10	NA	NA
+06-27-2023JC16	summer	JC16	curassavica	2	6/16/23	6/27/23	11	NA	Both J at pupation check
+06-26-2023JC17	summer	JC17	curassavica	1	6/16/23	6/26/23	10	right	NA
+06-26-2023JC18	summer	JC18	curassavica	1	6/16/23	6/26/23	10	right	NA
+06-29-2023JC18	summer	JC18	curassavica	2	6/16/23	6/29/23	13	middle-and-left	Unsure about pupation date
+06-27-2023JC19	summer	JC19	curassavica	1	6/12/23	6/27/23	15	NA	NA
+06-26-2023JC2	summer	JC2	curassavica	3	6/16/23	6/26/23	10	NA	NA
+06-28-2023JC20	summer	JC20	curassavica	2	6/16/23	6/28/23	12	leftmost	Left J at pupation check
+06-26-2023JC22	summer	JC22	curassavica	2	6/16/23	6/26/23	10	NA	Both on leaves
+06-29-2023JC23	summer	JC23	curassavica	1	6/18/23	6/29/23	11	NA	J at pupation check
+06-29-2023JC24	summer	JC24	curassavica	1	6/18/23	6/29/23	11	NA	J at pupation check
+06-29-2023JC25	summer	JC25	curassavica	3	6/18/23	6/29/23	11	NA	2 leftmost J at pupation check
+06-28-2023JC26	summer	JC26	curassavica	3	6/16/23	6/28/23	12	NA	Right J at pupation check
+06-26-2023JC27	summer	JC27	curassavica	1	6/16/23	6/26/23	10	NA	NA
+06-25-2023JC28	summer	JC28	curassavica	1	6/16/23	6/25/23	9	right	Right J at pupation check
+06-26-2023JC29	summer	JC29	curassavica	3	6/16/23	6/26/23	10	NA	NA
+06-26-2023JC3	summer	JC3	curassavica	2	6/16/23	6/26/23	10	rightmost-and-leftmost	NA
+06-27-2023JC3	summer	JC3	curassavica	1	6/16/23	6/27/23	11	middle	NA
+06-26-2023JC4	summer	JC4	curassavica	2	6/16/23	6/26/23	10	NA	NA
+06-26-2023JC5	summer	JC5	curassavica	1	6/16/23	6/26/23	10	NA	J at pupation check
+06-27-2023JC6	summer	JC6	curassavica	2	6/16/23	6/27/23	11	NA	NA
+06-26-2023JC7	summer	JC7	curassavica	2	6/12/23	6/26/23	14	NA	NA
+06-24-2023JC8	summer	JC8	curassavica	1	6/12/23	6/24/23	12	NA	J at pupation check
+06-25-2023JC9	summer	JC9	curassavica	1	6/12/23	6/25/23	13	NA	J at pupation check
+06-25-2023JI1	summer	JI1	incarnata	1	6/12/23	6/25/23	13	NA	NA
+06-24-2023JI10	summer	JI10	incarnata	2	6/12/23	6/24/23	12	both	Left J at pupation check
+06-24-2023JI11	summer	JI11	incarnata	1	6/12/23	6/24/23	12	left	NA
+06-25-2023JI11	summer	JI11	incarnata	1	6/12/23	6/25/23	13	right	NA
+06-27-2023JI12	summer	JI12	incarnata	2	6/16/23	6/27/23	11	NA	NA
+06-26-2023JI13	summer	JI13	incarnata	1	6/16/23	6/26/23	10	right	Right J at pupation check
+06-27-2023JI13	summer	JI13	incarnata	1	6/16/23	6/27/23	11	left	NA
+06-24-2023JI14	summer	JI14	incarnata	2	6/12/23	6/24/23	12	NA	NA
+06-25-2023JI14	summer	JI14	incarnata	1	6/12/23	6/25/23	13	leftmost	NA
+06-26-2023JI14	summer	JI14	incarnata	1	6/12/23	6/26/23	14	right	NA
+06-24-2023JI15	summer	JI15	incarnata	2	6/12/23	6/24/23	12	NA	Left J at pupation check
+06-27-2023JI16	summer	JI16	incarnata	2	6/16/23	6/27/23	11	NA	NA
+06-25-2023JI17	summer	JI17	incarnata	2	6/12/23	6/25/23	13	NA	NA
+06-26-2023JI18	summer	JI18	incarnata	2	6/16/23	6/26/23	10	NA	NA
+06-25-2023JI19	summer	JI19	incarnata	2	6/16/23	6/25/23	9	NA	Both J at pupation check
+06-24-2023JI2	summer	JI2	incarnata	1	6/12/23	6/24/23	12	NA	NA
+06-25-2023JI20	summer	JI20	incarnata	1	6/16/23	6/25/23	9	right	Right J at pupation check
+06-27-2023JI20	summer	JI20	incarnata	1	6/16/23	6/27/23	11	NA	On stem
+06-24-2023JI21	summer	JI21	incarnata	1	6/12/23	6/24/23	12	left	Left J at pupation check
+06-25-2023JI21	summer	JI21	incarnata	1	6/12/23	6/25/23	13	right	Right J at pupation check
+06-26-2023JI21	summer	JI21	incarnata	1	6/12/23	6/26/23	14	left	NA
+06-26-2023JI22	summer	JI22	incarnata	2	6/16/23	6/26/23	10	NA	Both J at pupation check
+06-26-2023JI23	summer	JI23	incarnata	2	6/16/23	6/26/23	10	NA	Left J at pupation check
+06-27-2023JI24	summer	JI24	incarnata	1	6/16/23	6/27/23	11	right	Right J at pupation check
+06-24-2023JI25	summer	JI25	incarnata	2	6/12/23	6/24/23	12	both	Right J at pupation check
+06-24-2023JI26	summer	JI26	incarnata	1	6/12/23	6/24/23	12	middle	J at pupation check
+06-25-2023JI26	summer	JI26	incarnata	2	6/12/23	6/25/23	13	rightmost-and-leftmost	NA
+unknownJI27	summer	JI27	incarnata	1	6/18/23	unknown	NA	NA	on leaf
+07-01-2023JI28	summer	JI28	incarnata	1	6/18/23	7/1/23	13	NA	on leaf
+06-24-2023JI29	summer	JI29	incarnata	1	6/12/23	6/24/23	12	NA	died during pupation
+06-29-2023JI3	summer	JI3	incarnata	1	6/18/23	6/29/23	11	NA	J at pupation check
+06-30-2023JI4	summer	JI4	incarnata	1	6/18/23	6/30/23	12	left	NA
+06-25-2023JI5	summer	JI5	incarnata	2	6/12/23	6/25/23	13	NA	NA
+06-24-2023JI6	summer	JI6	incarnata	1	6/12/23	6/24/23	12	NA	J at pupation check
+06-24-2023JI7	summer	JI7	incarnata	1	6/12/23	6/24/23	12	NA	NA
+unknownJI8	summer	JI8	incarnata	1	6/16/23	unknown	NA	NA	on leaf
+06-24-2023JI9	summer	JI9	incarnata	2	6/12/23	6/24/23	12	NA	NA
+12-3-2023OC?	fall	OC?	curassavica	1	10/6/23	12/3/23	58	leftmost	Canabilized other pupa
+10-30-2023OC1	fall	OC1	curassavica	1	10/5/23	10/30/23	25	left	NA
+11-11-2023OC1	fall	OC1	curassavica	1	10/5/23	11/11/23	37	right	NA
+11-1-2023OC17	fall	OC17	curassavica	1	10/4/23	11/1/23	28	right	NA
+11-9-2023OC2	fall	OC2	curassavica	1	10/6/23	11/9/23	34	right	NA
+11-1-2023OC21	fall	OC21	curassavica	1	10/5/23	11/1/23	27	left	NA
+10-22-2023OC22	fall	OC22	curassavica	1	10/4/23	10/22/23	18	left	NA
+10-30-2023OC22	fall	OC22	curassavica	2	10/4/23	10/30/23	26	left-and-net	NA
+10-30-2023OC23	fall	OC23	curassavica	2	10/5/23	10/30/23	25	right-and-net	NA
+11-9-2023OC23	fall	OC23	curassavica	1	10/5/23	11/9/23	35	left	NA
+10-30-2023OC24	fall	OC24	curassavica	1	10/4/23	10/30/23	26	right	NA
+10-23-2022OC26	fall	OC26	curassavica	1	10/5/23	10/23/23	18	rightmost	NA
+10-25-2023OC26	fall	OC26	curassavica	1	10/5/23	10/25/23	20	leftmost	NA
+10-30-2023OC26	fall	OC26	curassavica	2	10/5/23	10/30/23	25	right-and-rightmost	NA
+10-30-2023OC27	fall	OC27	curassavica	1	10/4/23	10/30/23	26	right	NA
+11-19-2023OC3	fall	OC3	curassavica	1	10/6/23	11/19/23	44	middle	NA
+10-26-2023OC9	fall	OC9	curassavica	1	10/4/23	10/26/23	22	net	NA
+10-30-2023OC9	fall	OC9	curassavica	2	10/4/23	10/30/23	26	left-and-net	NA
+10-30-2023OI10	fall	OI10	incarnata	1	10/4/23	10/30/23	26	left	NA
+11-9-2023OI12	fall	OI12	incarnata	1	10/5/23	11/9/23	35	right	NA
+10-30-2023OI20	fall	OI20	incarnata	1	10/5/23	10/30/23	25	right	NA
+10-26-2023OI4	fall	OI4	incarnata	1	10/4/23	10/26/23	22	left	NA
+10-30-2023OI4	fall	OI4	incarnata	2	10/4/23	10/30/23	26	rightmost-and-leftmost	NA
+11-1-2023OI6	fall	OI6	incarnata	1	10/6/23	11/1/23	26	net	NA
